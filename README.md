@@ -5,7 +5,7 @@ The project involves a complete machine learning lifecycle, including:
 * Data preprocessing
 * A comparative analysis of two powerful algorithms (**Random Forest** and **XGBoost**)
 * Refactoring the training pipeline into an Object-Oriented Programming (OOP) structure
-* Deploying the final model as an interactive web application using **Streamlit** **[Click Here](https://2702213770laurelevelinawidjajautsmodeldeploymentigdvvkotra9hk.streamlit.app/)**
+* Deploying the final model as an interactive web application using **Streamlit** **[Click The Streamlit Here](https://2702213770laurelevelinawidjajautsmodeldeploymentigdvvkotra9hk.streamlit.app/)**
 
 ---
 
